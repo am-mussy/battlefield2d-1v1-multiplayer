@@ -52,5 +52,5 @@ document.addEventListener('keydown', function(e) {
     for (let i=0;i<10;i++){
         draw()
     }
-    
+    //lol
 });
